@@ -1,3 +1,7 @@
+# Project
+.DS_Store
+*.sw*
+
 # Logs
 logs
 *.log
