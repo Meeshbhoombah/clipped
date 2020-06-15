@@ -15,5 +15,8 @@
   "license": "GPL-2.0",
   "bugs": {
     "url": "https://github.com/Meeshbhoombah/clipped/issues"
+  },
+  "dependencies": {
+    "yargs": "^15.3.1"
   }
 }
