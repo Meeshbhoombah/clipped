@@ -1,19 +1,19 @@
 {
-  "name": "clipped",
+  "name": "clip",
   "version": "1.0.0",
   "description": "A CLI for scraping and DMing Twitter followers",
-  "main": "clipped.js",
-  "scripts": {
-      "start": "node clipped.js"
-  },
+  "main": "clip.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Meeshbhoombah/clipped.git"
   },
-  "author": "",
+  "author": {
+    "name": "Rohan Mishra",
+    "email": "rohanmishra2017@gmail.com"
+  },
+  "bin": "clip.js",
   "license": "GPL-2.0",
   "bugs": {
     "url": "https://github.com/Meeshbhoombah/clipped/issues"
-  },
-  "homepage": "https://github.com/Meeshbhoombah/clipped#readme"
+  }
 }
